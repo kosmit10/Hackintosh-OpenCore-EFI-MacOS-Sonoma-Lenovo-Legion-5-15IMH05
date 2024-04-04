@@ -2,8 +2,7 @@
 <h1 align="center">EFI for macOS Lenovo Legion 5 15IMH05</h1>
 
 <p align="center">
-  <img src="![291522196-c3f9f4c5-872a-48f6-96e2-432786741943](https://github.com/kosmit10/Hackintosh-OpenCore-EFI-MacOS-Sonoma-Lenovo-Legion-5-15IMH05/assets/92518400/cd0f58d5-f9d7-46f5-9ee9-4195c0b8f509)
-"/>
+  <img src="![291522196-c3f9f4c5-872a-48f6-96e2-432786741943](https://github.com/kosmit10/Hackintosh-OpenCore-EFI-MacOS-Sonoma-Lenovo-Legion-5-15IMH05/assets/92518400/a5da2e0b-acde-437e-bd7e-18726be01a88)"/>
 
 </p>
 <h1 align="center">To find EFI, go to the Tags</h1>
