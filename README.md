@@ -1,14 +1,14 @@
 # Hackintosh-OpenCore-EFI-MacOS-Sonoma-Lenovo-Legion-5-15IMH05
 <h1 align="center">EFI for macOS Lenovo Legion 5 15IMH05</h1>
 
-<p align="center">
-  <img src="![291522196-c3f9f4c5-872a-48f6-96e2-432786741943](https://github.com/kosmit10/Hackintosh-OpenCore-EFI-MacOS-Sonoma-Lenovo-Legion-5-15IMH05/assets/92518400/a5da2e0b-acde-437e-bd7e-18726be01a88)"/>
+![291522196-c3f9f4c5-872a-48f6-96e2-432786741943](https://github.com/kosmit10/Hackintosh-OpenCore-EFI-MacOS-Sonoma-Lenovo-Legion-5-15IMH05/assets/92518400/7c3170c5-d105-453a-97cf-9c8689e6557a)
 
-</p>
+
 <h1 align="center">To find EFI, go to the Tags</h1>
-<p align="center">
-  <img src="![291526622-b5b89cfe-ab18-4166-8006-53d20b5f8545](https://github.com/kosmit10/Hackintosh-OpenCore-EFI-MacOS-Sonoma-Lenovo-Legion-5-15IMH05/assets/92518400/a661eff7-3fb4-4746-b7ee-43d3b6bc878a)"/>
-</p>
+
+![291526622-b5b89cfe-ab18-4166-8006-53d20b5f8545](https://github.com/kosmit10/Hackintosh-OpenCore-EFI-MacOS-Sonoma-Lenovo-Legion-5-15IMH05/assets/92518400/a254626a-f107-443a-8821-f5f5aa85aa27)
+
+
 
 ## Specification 💻
 
@@ -22,9 +22,9 @@ External Graphics Card | NVIDIA GeForce GTX 1650 | ❌
 Audio       | Realtek ALC257 | ✅
 Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) | ✅
 Ethernet          | Realtek RTL8111H | ✅
-<p align="center">
-  <img src="![image](https://github.com/kosmit10/Hackintosh-OpenCore-EFI-MacOS-Sonoma-Lenovo-Legion-5-15IMH05/assets/92518400/b13d5cf0-07f2-49ce-a4ee-33a1e35b7040)"/>
-</p>
+
+![image](https://github.com/kosmit10/Hackintosh-OpenCore-EFI-MacOS-Sonoma-Lenovo-Legion-5-15IMH05/assets/92518400/1b7dae2d-2205-44d6-a8ae-38eca92d91d7)
+
 
 ## Tested on: 
 - ✅ macOS Sonoma 14.3 (I'm using)
